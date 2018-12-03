@@ -1,3 +1,8 @@
+https://manager-cielo.sensedia.com/api-manager/#/dashboard
+
+http://10.80.50.144:8001/cielo-xls/jsp/main/logon.jsp 
+_________________________________________________________________________________________________
+
 Mensagem
 Could not execute JDBC batch update
 Exceção
